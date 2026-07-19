@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class A1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("URK23CS1064");
+        System.out.println("URK23CS1067");
         System.out.print("Enter value of a: ");
         int a = sc.nextInt();
 
